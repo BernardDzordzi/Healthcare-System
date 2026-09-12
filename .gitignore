@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.csproj.user
+*.user
+.DS_Store
+*.swp
+*.swo
+*~
